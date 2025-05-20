@@ -1,0 +1,63 @@
+.tituloMedicinais {
+    color: green;
+    background-color: rgba(0, 128, 0, 0.171);
+}
+.tituloOrnamentais {
+    color: purple;
+    background-color:rgba(137, 43, 226, 0.205);
+}
+.ornamentais{
+    background-color: rgba(137, 43, 226, 0.144);
+}
+.medicinais{
+    background-color: rgba(0, 128, 0, 0.075);
+}
+a{
+text-decoration: none;
+}
+h3 a{
+    color:darkorange;
+}
+p{
+    font-size: 18px;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.inicial{
+    width: 90%;
+    height: auto; 
+    background-color:#ed95b15d;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: auto;
+    height: 600px;
+}
+.girassol{
+    background-color: rgba(255, 143, 6, 0.363);
+}
+.camomila{
+    background-color:rgba(245, 245, 220, 0.336);
+}
+.aloeVera{
+    
+    background-color:rgba(142, 207, 88, 0.267);
+}
+.orquidea{
+    background-color: rgba(209, 82, 203, 0.205);
+}
+.rosa{
+    background-color: rgba(245, 59, 59, 0.212) ;
+}
+.hortela{
+    background-color: rgba(24, 129, 94, 0.315);
+}
+h2 a{
+    color: palevioletred;
+}
+h4 a {
+    color:#b6b3b3;
+}
